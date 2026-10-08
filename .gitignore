@@ -1,0 +1,22 @@
+#日志
+logge/
+*.log
+
+#密钥
+session
+*.json
+
+#python
+.venv/
+__pychache__/
+*.pyc
+#虚拟环境
+.venv/
+.venv/
+#python 缓存
+__pychar__/
+*pyc
+#日志和报告
+logge/
+*.log
+reports/
